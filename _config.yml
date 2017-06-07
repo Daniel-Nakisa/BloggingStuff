@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Daniel Nakisa
+  name: Daniel_Nakisa
   avatar: https://vignette2.wikia.nocookie.net/donkeykong/images/9/95/Leo_Luster_1.jpg/revision/latest?cb=20110330042745
   email: you@email.com
   disqus-shortname:
