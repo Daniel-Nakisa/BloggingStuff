@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: A Terrible Blog!
 locale: en_UK
 description: A terrible mess of a blogging site! Enjoy!
 logo: site-logo.png
 search: true
-url: http://localhost:4000
+url: www.MyTerribleBlog.com
 
 # Jekyll configuration
 
@@ -36,7 +36,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 
 # Site owner
 owner:
-  name: Your Name
+  name: Daniel Nakisa
   avatar: https://vignette2.wikia.nocookie.net/donkeykong/images/9/95/Leo_Luster_1.jpg/revision/latest?cb=20110330042745
   email: you@email.com
   disqus-shortname:
