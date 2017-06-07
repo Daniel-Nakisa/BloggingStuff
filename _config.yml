@@ -1,8 +1,8 @@
 # Site wide configuration
 
 title: Site Title
-locale: en_US
-description: Describe your website here.
+locale: en_UK
+description: A terrible mess of a blogging site! Enjoy!
 logo: site-logo.png
 search: true
 url: http://localhost:4000
@@ -37,7 +37,7 @@ exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.
 # Site owner
 owner:
   name: Your Name
-  avatar: bio-photo.jpg
+  avatar: https://vignette2.wikia.nocookie.net/donkeykong/images/9/95/Leo_Luster_1.jpg/revision/latest?cb=20110330042745
   email: you@email.com
   disqus-shortname:
   twitter: #username
